@@ -1,4 +1,4 @@
-\## Network Design and Topology
+Network Design and Topology
 
 
 
@@ -15,6 +15,7 @@ The network consists of:
 Each department is assigned a dedicated VLAN to ensure traffic separation.
 
 The switch connects to the router via a trunk port carrying VLANs 35, 45, and 55.
+
 
 
 
